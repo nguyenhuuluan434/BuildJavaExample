@@ -21,8 +21,9 @@ public class App {
 			prop.load(stream);
 		} catch (Exception e) {
 			// TODO: handle exception
-			System.err.println("unable log properties file test 1234" + path);
-			System.err.println("unable log properties file test 1234" + path);
+			System.err.println("unable log properties file test 1" + path);
+			System.err.println("unable log properties file test 12" + path);
+			System.err.println("unable log properties file test 123" + path);
 		}
 		return prop;
 	}
