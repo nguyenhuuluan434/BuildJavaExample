@@ -22,6 +22,7 @@ public class App {
 		} catch (Exception e) {
 			// TODO: handle exception
 			System.err.println("unable log properties file test 1234" + path);
+			System.err.println("unable log properties file test 1234" + path);
 		}
 		return prop;
 	}
